@@ -43,4 +43,4 @@ Designed in Kicad, gets yours at JLCPCB or PCBway with my Gerber files.
 
 <img width="1916" height="1141" alt="Screenshot 2026-09-04 190635" src="https://github.com/user-attachments/assets/7a04b581-6829-4d56-8e94-1be0c1d039a0" />
 
-KMK, very simple python based code. Firmware in "Production" file, flash onto Pico. Very modifiable. 
+KMK, very simple python based code. Firmware in "Production" file, flash onto Pico. Very modifiable. Also install Plover for the Steno.
