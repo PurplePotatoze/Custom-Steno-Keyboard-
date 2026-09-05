@@ -38,6 +38,8 @@ Very simple case, just 10 heat set inserts
 
 Designed in Kicad, gets yours at JLCPCB or PCBway with my Gerber files.
 
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/<OWNER>/<REPOSITORY>/tree/main/pcb)
+
 # Firmware
 
 <img width="1916" height="1141" alt="Screenshot 2026-09-04 190635" src="https://github.com/user-attachments/assets/7a04b581-6829-4d56-8e94-1be0c1d039a0" />
