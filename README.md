@@ -1,3 +1,5 @@
+<img width="1476" height="977" alt="Screenshot 2026-09-04 190835" src="https://github.com/user-attachments/assets/94fa3aa8-31e9-47d4-bc1e-c6bb4f468767" />
+
 #  Steno Keyboard
 I'm making my very own Steno Keyboard!! (In a nutshell, its a keyboard that you can type over 200 wpm because of the placement of the keys). 42 Keys, USB-C, with a Raspberry Pi Pico. Thank you Hackclub Stardance for funding this!
 
